@@ -1,4 +1,4 @@
-# The exact evaluation of hexagonal spin-networks and topological quantum neural networks
+# A note on the lattice momentum balance in the lattice Boltzmann interaction-framework
 
 **This repository matches the arXiv version of the paper** [https://arxiv.org/abs/2503.05743](https://arxiv.org/abs/2503.05743)
 
