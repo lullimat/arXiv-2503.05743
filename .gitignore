@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+*~
+reproduced-figures/
+reproduced-results/
+SCEqCache.json
