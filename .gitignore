@@ -4,3 +4,4 @@ reproduced-figures/
 reproduced-results/
 __pycache__/
 SCEqCache.json
+!.gitignore
