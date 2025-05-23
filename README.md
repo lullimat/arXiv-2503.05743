@@ -32,4 +32,7 @@ As of today, after much testing Firefox, Google Chrome and VSCode have offered t
 
 A part from the python dependencies a working "latex" environment needs to be installed on the system in order to reproduce the plots which contain latex symbols.
 
+## Disk Requirement
+The output of the fully execute notebook has a memory footprint of 48MB.
+
 Tuesday May 20, 2025
