@@ -16,6 +16,7 @@ from idpy.LBM.LBM import InitFStencilWeights, InitDimSizesStridesVolume, InitSte
 from idpy.LBM.LBM import F_IndexFromPos, F_PosFromIndex, F_PointDistanceCenterFirst
 from idpy.LBM.LBM import F_PosFromIndexDIM, F_NFlatProfile
 from idpy.LBM.LBM import IndexFromPos, PosFromIndex
+## Check these kernles and add 'math.h' in the headers for CTYPES_T
 from idpy.LBM.LBM import K_InitFlatInterface, K_InitRadialInterface
 from idpy.LBM.LBM import K_InitPopulations, F_NFlatProfilePeriodicR, F_NFlatProfilePeriodic
 from idpy.LBM.LBM import LBMTypes, AllTrue, OneTrue
