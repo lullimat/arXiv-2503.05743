@@ -4,12 +4,16 @@
 
 **The repository is up to date**
 **All simulations and figures can be reproduced at this release**
-**Please use the devel branch of the idea.deploy framework for now**
-
 
 **Please, keep on pulling the updates, either with your git manager software of choice or by means of the command**
 ```bash
 $ git pull
+```
+
+## Paste & Install
+By pasting the link below in a bash shell [idea.deploy](https://github.com/lullimat/idea.deploy) will be installed and the repository cloned
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/lullimat/arXiv-2503.05743/refs/heads/main/install.sh)"
 ```
 
 This project will be updated in order be kept functional for further updates to [**idea.deploy**](https://github.com/lullimat/idea.deploy).
